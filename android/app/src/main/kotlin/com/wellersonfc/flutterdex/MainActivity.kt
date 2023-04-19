@@ -1,0 +1,6 @@
+package com.wellersonfc.flutterdex
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
